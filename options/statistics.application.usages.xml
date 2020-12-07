@@ -1,0 +1,56 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="9" />
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="14" />
+      <entry feature="debugger.reload.classes" count="8" />
+      <entry feature="diff.DirDiffTableModel" count="1" />
+      <entry feature="diff.DirDiffViewer" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="1" />
+      <entry feature="execute.Application.Coverage" count="1" />
+      <entry feature="execute.Application.Debug" count="77" />
+      <entry feature="execute.Application.Run" count="367" />
+      <entry feature="execute.JUnit.Debug" count="23" />
+      <entry feature="execute.JUnit.Run" count="263" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="6" />
+      <entry feature="ide.settings.Annotation Processors" count="1" />
+      <entry feature="ide.settings.Appearance" count="14" />
+      <entry feature="ide.settings.Application&#10;Servers" count="2" />
+      <entry feature="ide.settings.Auto Import" count="1" />
+      <entry feature="ide.settings.Code Completion" count="1" />
+      <entry feature="ide.settings.Code Style" count="4" />
+      <entry feature="ide.settings.Compiler" count="2" />
+      <entry feature="ide.settings.Debugger" count="1" />
+      <entry feature="ide.settings.Editor Tabs" count="1" />
+      <entry feature="ide.settings.File Encodings" count="7" />
+      <entry feature="ide.settings.File and Code Templates" count="1" />
+      <entry feature="ide.settings.Font" count="6" />
+      <entry feature="ide.settings.General" count="3" />
+      <entry feature="ide.settings.Git" count="1" />
+      <entry feature="ide.settings.Java" count="4" />
+      <entry feature="ide.settings.Java Compiler" count="11" />
+      <entry feature="ide.settings.Keymap" count="7" />
+      <entry feature="ide.settings.Live Templates" count="8" />
+      <entry feature="ide.settings.Maven" count="17" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Project Structure" count="4" />
+      <entry feature="ide.settings.Runner" count="1" />
+      <entry feature="ide.settings.Schemas and DTDs" count="2" />
+      <entry feature="ide.settings.Tomcat Server" count="3" />
+      <entry feature="ideaapp.started" count="42" />
+      <entry feature="project.view.pane.PackagesPane" count="6" />
+      <entry feature="project.view.pane.ProjectPane" count="8" />
+      <entry feature="project.view.pane.Scope.Problems" count="2" />
+      <entry feature="project.view.pane.Scope.Project Files" count="4" />
+      <entry feature="show.recent.tests.action" count="2" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="26" />
+      <entry feature="terminal.win" count="9" />
+      <entry feature="tips.of.the.day.prev" count="1" />
+      <entry feature="uml.ShowDiagram.JAVA" count="1" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="4" />
+      <entry feature="vcs.log.ShowDiff" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="6" />
+    </counts>
+  </component>
+</application>

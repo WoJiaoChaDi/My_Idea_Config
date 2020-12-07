@@ -1,0 +1,51 @@
+<application>
+  <component name="AppserversManager">
+    <ServerDK NAME="Tomcat 8.5.50">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="E:/Work/Tools/apache-tomcat-8.5.50" />
+        <option name="CATALINA_BASE" value="" />
+      </DATA>
+    </ServerDK>
+    <ServerDK NAME="Tomcat 7.0.99">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="E:/Work/Tools/apache-tomcat-7.0.99" />
+        <option name="CATALINA_BASE" value="" />
+      </DATA>
+    </ServerDK>
+    <ServerDK NAME="Tomcat 9.0.30">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="E:/Work/Tools/apache-tomcat-9.0.30" />
+        <option name="CATALINA_BASE" value="" />
+      </DATA>
+    </ServerDK>
+    <LibraryTable>
+      <library name="Tomcat 7.0.99">
+        <CLASSES>
+          <root url="jar://E:/Work/Tools/apache-tomcat-7.0.99/lib/jsp-api.jar!/" />
+          <root url="jar://E:/Work/Tools/apache-tomcat-7.0.99/lib/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="Tomcat 8.5.50">
+        <CLASSES>
+          <root url="jar://E:/Work/Tools/apache-tomcat-8.5.50/lib/jsp-api.jar!/" />
+          <root url="jar://E:/Work/Tools/apache-tomcat-8.5.50/lib/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="Tomcat 9.0.30">
+        <CLASSES>
+          <root url="jar://E:/Work/Tools/apache-tomcat-9.0.30/lib/jsp-api.jar!/" />
+          <root url="jar://E:/Work/Tools/apache-tomcat-9.0.30/lib/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </LibraryTable>
+  </component>
+</application>

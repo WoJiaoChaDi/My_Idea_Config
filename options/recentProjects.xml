@@ -1,0 +1,447 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="E:/Work/MySelfWork/dbcompare" />
+        <option value="E:/Work/MySelfWork/Mybatis" />
+        <option value="E:/Work/MySelfWork/JavaWeb" />
+        <option value="E:/Work/MySelfWork/youdaoDownload" />
+        <option value="E:/Work/MySelfWork/Java_Demo" />
+        <option value="E:/Work/MySelfWork/Test_Project" />
+        <option value="E:/Work/MySelfWork/interviewSession2" />
+        <option value="E:/DownLoad/赢时胜公司考试/公司人员能力建设考试——全国统考（20200523）/公司人员能力建设考试——全国统考/exams" />
+        <option value="E:/Work/MySelfWork/Java8_NewFeature" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="E:/Work/MySelfWork/dbcompare" />
+      </list>
+    </option>
+    <option name="lastPath" value="E:/Work/MySelfWork/dbcompare" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/TestJavaWeb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569318503302" />
+              <option name="buildTimestamp" value="1514220698654" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/develop/idea_code/jianhangchengkai_test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569318388071" />
+              <option name="buildTimestamp" value="1514220698654" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/develop/idea_code/jianhangchengkai_test2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569319663798" />
+              <option name="buildTimestamp" value="1514220689000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/DownLoad/赢时胜公司考试/公司人员能力建设考试——全国统考（20200523）/公司人员能力建设考试——全国统考">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1590220490324" />
+              <option name="buildTimestamp" value="1520275880688" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/DownLoad/赢时胜公司考试/公司人员能力建设考试——全国统考（20200523）/公司人员能力建设考试——全国统考/exams">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1592398803312" />
+              <option name="buildTimestamp" value="1520275901862" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Work/MySelfWork/Java8_NewFeature">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1590212872710" />
+              <option name="buildTimestamp" value="1520275880688" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Work/MySelfWork/JavaWeb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1607045910372" />
+              <option name="buildTimestamp" value="1520275864107" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Work/MySelfWork/Java_Demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1607045788587" />
+              <option name="buildTimestamp" value="1520275864107" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Work/MySelfWork/Mybatis">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1607304830005" />
+              <option name="buildTimestamp" value="1520275888798" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Work/MySelfWork/Test_Project">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1606114279478" />
+              <option name="buildTimestamp" value="1520275911447" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Work/MySelfWork/dbcompare">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1607316364623" />
+              <option name="buildTimestamp" value="1520275888798" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Work/MySelfWork/interviewSession2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1603346784577" />
+              <option name="buildTimestamp" value="1520275869702" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Work/MySelfWork/youdaoDownload">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1607045870246" />
+              <option name="buildTimestamp" value="1520275864107" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Work/idea_Test_ccb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569319561350" />
+              <option name="buildTimestamp" value="1514220698654" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Work/idea_project">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569318792765" />
+              <option name="buildTimestamp" value="1514220698654" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Work/idea_project/Test_Project">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576658245108" />
+              <option name="buildTimestamp" value="1514220711199" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Work/idea_project/hello-world">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569552552761" />
+              <option name="buildTimestamp" value="1514220718613" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Work/idea_project/xd">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576657852336" />
+              <option name="buildTimestamp" value="1514220711199" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Document/Java/路人甲Java/12.Spring 4视频教程（必须掌握）/尚硅谷Spring4视频教程/代码及PPT/Java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576203928591" />
+              <option name="buildTimestamp" value="1514220692925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Document/Java/路人甲Java/12.Spring 4视频教程（必须掌握）/尚硅谷Spring4视频教程/代码及PPT/Spring4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576374256298" />
+              <option name="buildTimestamp" value="1514220692925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Document/Java/路人甲Java/12.Spring 4视频教程（必须掌握）/尚硅谷Spring4视频教程/代码及PPT/SpringBoot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576495933568" />
+              <option name="buildTimestamp" value="1514220701638" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Document/Java/路人甲Java/12.Spring 4视频教程（必须掌握）/尚硅谷Spring4视频教程/代码及PPT/mi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576203924730" />
+              <option name="buildTimestamp" value="1514220692925" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Document/Java/路人甲Java/12.Spring 4视频教程（必须掌握）/尚硅谷Spring4视频教程/代码及PPT/spring-1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576458708471" />
+              <option name="buildTimestamp" value="1514220695048" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Document/Java/路人甲Java/12.Spring 4视频教程（必须掌握）/尚硅谷Spring4视频教程/代码及PPT/spring-boot-01-helloworld-quick">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576488776128" />
+              <option name="buildTimestamp" value="1514220701638" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Document/Java/路人甲Java/12.Spring 4视频教程（必须掌握）/尚硅谷Spring4视频教程/代码及PPT/spring-boot-02-helloworld-quick">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576495517013" />
+              <option name="buildTimestamp" value="1514220701638" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Document/Java/路人甲Java/12.Spring 4视频教程（必须掌握）/尚硅谷Spring4视频教程/代码及PPT/spring-boot-parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576495858658" />
+              <option name="buildTimestamp" value="1514220701638" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Document/Java/路人甲Java/12.Spring 4视频教程（必须掌握）/尚硅谷Spring4视频教程/代码及PPT/spring4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576461938976" />
+              <option name="buildTimestamp" value="1514220697484" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Document/Java/路人甲Java/17.SpringBoot（必须掌握）/尚硅谷SpringBoot视频/源码、资料、课件/代码/spring-boot-01-helloworld">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576486847647" />
+              <option name="buildTimestamp" value="1514220683443" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Document/Java/路人甲Java/17.SpringBoot（必须掌握）/尚硅谷SpringBoot视频/源码、资料、课件/代码/spring-boot-01-helloworld-quick">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576488084458" />
+              <option name="buildTimestamp" value="1514220683443" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Document/Java/路人甲Java/17.SpringBoot（必须掌握）/尚硅谷SpringBoot视频/源码、资料、课件/代码/spring-boot-02-config">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576498713489" />
+              <option name="buildTimestamp" value="1514220701638" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Document/Java/路人甲Java/18.SpringCloud（必须掌握）/microservicecloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576582433308" />
+              <option name="buildTimestamp" value="1514220686596" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/code">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576572612377" />
+              <option name="buildTimestamp" value="1514220701638" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/code/activemq-Main-Demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576675033398" />
+              <option name="buildTimestamp" value="1514220711199" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/code/microservicespringcloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576663454944" />
+              <option name="buildTimestamp" value="1514220711199" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/code/spring-boot-parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576574287838" />
+              <option name="buildTimestamp" value="1514220701638" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/Work/idea2017/ActiveMQ-Main-Demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576764844390" />
+              <option name="buildTimestamp" value="1520275906064" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/Work/idea2017/Spring-Annotation">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576765864183" />
+              <option name="buildTimestamp" value="1520275906064" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="H:/Work/idea2017/activemq-Main-Demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576755692914" />
+              <option name="buildTimestamp" value="1520275861124" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="E:/Work/MySelfWork" />
+  </component>
+</application>
