@@ -1,0 +1,2 @@
+# MyIdeaConfig
+My Idea Config
